@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283652079201",
+    "firebase_url": "https://fluttertaxiapp-fc2ca.firebaseio.com",
+    "project_id": "fluttertaxiapp-fc2ca",
+    "storage_bucket": "fluttertaxiapp-fc2ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283652079201:android:2d20fd1f73500ef2",
+        "android_client_info": {
+          "package_name": "com.example.taxi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283652079201-g9bs8fflgqe2c0vg77uc8sphrfrecqbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_wffJpgFav8eQXQnaa7U_MKKvl0X_BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283652079201-g9bs8fflgqe2c0vg77uc8sphrfrecqbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
